@@ -1,0 +1,7 @@
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\bin\Debug\Perseverance.Test.dll
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\bin\Debug\Perseverance.Test.pdb
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\bin\Debug\Perseverance.exe
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\bin\Debug\Perseverance.pdb
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\obj\Debug\Perseverance.Test.csprojResolveAssemblyReference.cache
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\obj\Debug\Perseverance.Test.dll
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance.Test\obj\Debug\Perseverance.Test.pdb

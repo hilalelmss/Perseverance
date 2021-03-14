@@ -1,0 +1,5 @@
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance\bin\Debug\Perseverance.exe.config
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance\bin\Debug\Perseverance.exe
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance\bin\Debug\Perseverance.pdb
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance\obj\Debug\Perseverance.exe
+C:\Users\mustafa_2\Desktop\hilalergan\Perseverance\Perseverance\obj\Debug\Perseverance.pdb
