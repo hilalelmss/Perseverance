@@ -29,15 +29,15 @@ until the first one has finished moving.
 The output for each rover should be its final co-ordinates and heading.  
 
 ***Input and Output***
--***Test Input:***
-5 5
-1 2 N
-LMLMLMLMM
-3 3 E
-MMRMMRMRRM
--***Expected Output:***
-1 3 N
-5 1 E  
+-***Test Input:***  
+5 5  
+1 2 N  
+LMLMLMLMM   
+3 3 E  
+MMRMMRMRRM  
+-***Expected Output:***  
+1 3 N  
+5 1 E    
 
 ![Coordinate](https://user-images.githubusercontent.com/26936652/111116393-02d44400-8577-11eb-973a-6a3a7affa120.PNG)
 
